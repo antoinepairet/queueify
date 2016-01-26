@@ -1,2 +1,2 @@
 #Queueify
-Queueify returns queued strings in an simple and easy way
+Queueify allows to create queues of asynchronous tasks. The API is promised-based
