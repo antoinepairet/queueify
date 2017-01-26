@@ -9,7 +9,7 @@
   "author": "Antoine Pairet <antoine.pairet@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "async": "^1.5.2",
+    "async": "^2.1.4",
     "lodash": "^4.0.0",
     "moment": "^2.11.1"
   }
